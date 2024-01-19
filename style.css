@@ -1,0 +1,57 @@
+body {
+    font-family: sans-serif;
+    font-size: 20px;
+}
+header{
+   background-color: rgb(12, 202, 202);
+   color: darkblue; 
+}
+header a{
+    border:1px solid black;
+    text-decoration: none;
+    border-radius: 15px;
+    padding:4px;
+    margin:30px;
+
+}
+header img{
+    margin: 10px;
+}
+h1{
+    margin: 20px;
+    text-align: center;
+    color: blueviolet;
+}
+footer{
+    background-color: white;
+    
+
+}
+footer p{
+    background-color: green;
+}
+nav a{
+ margin: 2opx;
+ font-size: 20px;
+ text-decoration: none;
+ color: wheat; 
+ 
+ 
+ padding: 5px;
+}
+
+nav{
+    margin: 5px;
+ border: 3px solid wheat;
+  border-radius: 10px; 
+}
+.popular{
+    background-color: red;
+}
+main{
+   margin: 10px;
+
+}
+h2{
+    color: blueviolet;
+}
